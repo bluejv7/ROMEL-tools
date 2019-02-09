@@ -1,8 +1,11 @@
 const path = require('path');
 
 module.exports = {
+    devServer: {
+        publicPath: '/dist/'
+    },
     entry: {
-        'make-post': './src/make-post.js'
+        'index': './src/index.js'
     },
     mode: 'development',
     module: {

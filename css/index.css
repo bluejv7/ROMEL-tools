@@ -1,0 +1,19 @@
+.cmp-index {
+  display: flex;
+}
+.cmp-index .main {
+  width: 80%;
+}
+.cmp-index .nav {
+  width: 20%;
+}
+
+.cmp-calc-tu .ui.input:not(:first-child) {
+  margin-left: 1em;
+}
+
+.blue {
+  color: blue;
+}
+
+/*# sourceMappingURL=index.css.map */

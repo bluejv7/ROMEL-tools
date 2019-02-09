@@ -1,0 +1,21 @@
+.cmp-index {
+    display: flex;
+
+    .main {
+        width: 80%;
+    }
+
+    .nav {
+        width: 20%;
+    }
+}
+
+.cmp-calc-tu {
+    .ui.input:not(:first-child) {
+        margin-left: 1em;
+    }
+}
+
+.blue {
+    color: blue;
+}
